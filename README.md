@@ -1,2 +1,2 @@
 # Data-Science
-Contains my Glossary for Machine Learning related Stuffs using Python
+Contains my Glossary for Data Science related Stuffs.
