@@ -1,2 +1,2 @@
 # Data-Science
-Contains my Glossary for Data Science related Stuffs.
+Contains Glossary for Data Science related Stuffs.
