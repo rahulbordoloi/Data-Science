@@ -1,0 +1,6 @@
+python -m venv (name) --system-site-packages   [to access system packages]
+pip list
+(name)\Scripts\activate.bat
+where python
+pip freeze > requirements.txt
+deactivate
